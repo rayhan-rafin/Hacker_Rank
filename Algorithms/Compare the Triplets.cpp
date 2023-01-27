@@ -22,5 +22,6 @@ int main ()
         }
     }
     cout<<alice<<" "<<bob<<endl;
+    //added object ignore
     return 0;
 }
