@@ -9,7 +9,6 @@ int main ()
     cin>>n;
     for(i=0;i<n;i++){
         cin>>x;
-        cout<<sum<<endl;
         sum=sum+x;
     }
     cout<<sum<<endl;
